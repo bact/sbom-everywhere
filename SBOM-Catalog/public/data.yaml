@@ -7187,7 +7187,7 @@
   Link: https://github.com/bact/pitloom
   Name: Pitloom
   Publisher: Arthit Suriyawongkul
-  Source: Python project file, Hatchling dynamic build information, AI model metadata
+  Source: AI & human reviewed
   Standards:
     - SPDX
   Summary: 'Pitloom - SBOM generator for AI models and Python projects
