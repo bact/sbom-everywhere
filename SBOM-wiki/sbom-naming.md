@@ -32,6 +32,7 @@ Following [guidance](https://slsa.dev/spec/v1.0/distributing-provenance#relation
 | SPDX YAML         | artifact-1.0.0.tar.gz | artifact-1.0.0.tar.gz.spdx.yml (or .yaml) |
 | SPDX RDF XML      | artifact-1.0.0.tar.gz | artifact-1.0.0.tar.gz.spdx.rdf (or .rdf.xml) |
 | SPDX 3 JSON       | artifact-1.0.0.tar.gz | artifact-1.0.0.tar.gz.spdx3.json |
+| SPDX 3 RDF XML    | artifact-1.0.0.tar.gz | artifact-1.0.0.tar.gz.spdx3.rdf |
 
 The .cdx.\*, .spdx.\*, and .spdx3.\* extensions are sourced from
 the [CycloneDX](https://cyclonedx.org/guides/sbom/extensibility/),
